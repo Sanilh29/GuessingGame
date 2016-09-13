@@ -17,7 +17,7 @@ int main() {
       cout << "The guess it too high"<<endl;
       count+=1;
     }
-    if (guess = randomNum) {
+    if (guess == randomNum) {
       cout<< "You won! It took you" + guess + "guesses"<< end;
     }
   return 0;
